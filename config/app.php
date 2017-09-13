@@ -169,6 +169,7 @@ return [
          */
         Laravel\Passport\PassportServiceProvider::class,
         M809745357\MiniProgram\MiniProgramServiceProvider::class,
+	Orangehill\Iseed\IseedServiceProvider::class,
         /*
          * Application Service Providers...
          */

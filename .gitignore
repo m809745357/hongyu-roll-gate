@@ -5,6 +5,7 @@
 /vendor
 /.idea
 /.vagrant
+/Envoy.blade.php
 Homestead.json
 Homestead.yaml
 npm-debug.log

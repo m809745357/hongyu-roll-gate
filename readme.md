@@ -1,8 +1,8 @@
 ## 项目概述
 
 - 产品名称：「微世界」
-- 项目代码：hongyu
-- 官方地址：http://hongyu.mandokg.com
+- 项目代码：kaida
+- 官方地址：http://kaida.mandokg.com
 
 该项目为官网项目
 
